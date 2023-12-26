@@ -50,9 +50,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Tyuiu.ZakharovaYV.Sprint2.Review.V13.Lib\Tyuiu.ZakharovaYV.Sprint2.Review.V13.Lib.csproj">
+    <ProjectReference Include="..\Tyuiu.ZakharovaYV.Sprint2.Review.V13.Lib\Tyuiu.ZakharovaYV.Sprint2.Review.V10.Lib.csproj">
       <Project>{9046287d-0e4b-4c6a-9502-2b5ffb0adc71}</Project>
-      <Name>Tyuiu.ZakharovaYV.Sprint2.Review.V13.Lib</Name>
+      <Name>Tyuiu.ZakharovaYV.Sprint2.Review.V10.Lib</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

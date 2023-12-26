@@ -5,11 +5,11 @@ VisualStudioVersion = 16.0.33927.289
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Review", "Review", "{64A35335-795F-4CA5-AA5B-FBED8DB132B2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.ZakharovaYV.Sprint2.Review", "Tyuiu.ZakharovaYV.Sprint2.Review\Tyuiu.ZakharovaYV.Sprint2.Review.csproj", "{E1F7D75F-B707-4863-84FC-FD15C5C063D3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.ZakharovaYV.Sprint2.V10.Review", "Tyuiu.ZakharovaYV.Sprint2.Review\Tyuiu.ZakharovaYV.Sprint2.V10.Review.csproj", "{E1F7D75F-B707-4863-84FC-FD15C5C063D3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.ZakharovaYV.Sprint2.Review.V13.Test", "Tyuiu.ZakharovaYV.Sprint2.Review.V13.Test\Tyuiu.ZakharovaYV.Sprint2.Review.V13.Test.csproj", "{B5DAC201-2911-4260-A340-191BF0C67B00}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.ZakharovaYV.Sprint2.Review.V10.Test", "Tyuiu.ZakharovaYV.Sprint2.Review.V13.Test\Tyuiu.ZakharovaYV.Sprint2.Review.V10.Test.csproj", "{B5DAC201-2911-4260-A340-191BF0C67B00}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.ZakharovaYV.Sprint2.Review.V13.Lib", "Tyuiu.ZakharovaYV.Sprint2.Review.V13.Lib\Tyuiu.ZakharovaYV.Sprint2.Review.V13.Lib.csproj", "{9046287D-0E4B-4C6A-9502-2B5FFB0ADC71}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.ZakharovaYV.Sprint2.Review.V10.Lib", "Tyuiu.ZakharovaYV.Sprint2.Review.V13.Lib\Tyuiu.ZakharovaYV.Sprint2.Review.V10.Lib.csproj", "{9046287D-0E4B-4C6A-9502-2B5FFB0ADC71}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
